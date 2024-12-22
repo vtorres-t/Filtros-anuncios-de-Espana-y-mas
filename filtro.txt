@@ -4454,6 +4454,7 @@ impactoespananoticias.com,meteorologiaenred.com,desdelinux.net,lawebdelprogramad
 impactoespananoticias.com,meteorologiaenred.com,desdelinux.net,lawebdelprogramador.com,soydemac.com,as.com,cadenaser.com,cincodias.com,destinia.com,elpais.com,lavozlibre.com,elmundo.es,abc.es,marca.com,expansion.com,mp3xd.mom,escuchasmusica.com,goomusica.com,huffingtonpost.es,los40.com,podiumpodcast.com,caracol.com.co##.compartir--fijo
 as.com##._10st3ru5 
 as.com##._69w07m
+as.com##data-nosnippet
 los40.com##+js(remove-attr, class|style, div[id^="los40_gpt"])
 cincodias.elpais.com##section.sumario_html > .sumario__interior
 cincodias.elpais.com##.widget
